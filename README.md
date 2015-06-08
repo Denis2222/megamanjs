@@ -10,4 +10,6 @@ INSTALL & TRY:
 
 go to http://localhost:5000
 
-Made with [Phaser js](https://phaser.io/)
+Credits
+
+[Phaser.js](https://phaser.io/) for the JS framework. [Sprites Inc](http://www.sprites-inc.co.uk/) for the sprite assets.
