@@ -9,3 +9,5 @@ INSTALL & TRY:
 - node server.js
 
 go to http://localhost:5000
+
+Made with [Phaser js](https://phaser.io/)
